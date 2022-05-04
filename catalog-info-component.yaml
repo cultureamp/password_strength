@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: password_strength
+  description: Forked password_strength gem with ruby 3 support
+  links:
+    - title: Github
+      url: https://github.com/cultureamp/password_strength
+  tags:
+    - users-internal
+    - camp-engagement
+    - data-none
+  annotations:
+    github.com/project-slug: cultureamp/password_strength
+    github.com/team-slug: cultureamp/sol
+spec:
+  type: library
+  owner: sol
+  lifecycle: development

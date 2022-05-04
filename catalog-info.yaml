@@ -1,0 +1,10 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: password_strength-location
+  tags:
+    - camp-engagement
+spec:
+  targets:
+    - ./catalog-info-component.yaml # this is your main component file
