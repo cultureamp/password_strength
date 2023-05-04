@@ -7,13 +7,13 @@ metadata:
     - title: Github
       url: https://github.com/cultureamp/password_strength
   tags:
-    - users-internal
     - camp-engagement
     - data-none
+    - users-internal
   annotations:
     github.com/project-slug: cultureamp/password_strength
-    github.com/team-slug: cultureamp/sol
+    github.com/team-slug: cultureamp/ad-astra
 spec:
   type: library
-  owner: sol
+  owner: ad-astra
   lifecycle: development
